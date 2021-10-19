@@ -1,0 +1,17 @@
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\bin\Debug\net5.0\MetodosSistemasEcuaciones.exe
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\bin\Debug\net5.0\MetodosSistemasEcuaciones.deps.json
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\bin\Debug\net5.0\MetodosSistemasEcuaciones.runtimeconfig.json
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\bin\Debug\net5.0\MetodosSistemasEcuaciones.runtimeconfig.dev.json
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\bin\Debug\net5.0\MetodosSistemasEcuaciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\bin\Debug\net5.0\ref\MetodosSistemasEcuaciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\bin\Debug\net5.0\MetodosSistemasEcuaciones.pdb
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.csproj.AssemblyReference.cache
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.AssemblyInfoInputs.cache
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.AssemblyInfo.cs
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.csproj.CoreCompileInputs.cache
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.csproj.CopyComplete
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\ref\MetodosSistemasEcuaciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.pdb
+C:\Codigos\C#\Metodos Numericos\Metodos\MetodosSistemasEcuaciones\MetodosSistemasEcuaciones\obj\Debug\net5.0\MetodosSistemasEcuaciones.genruntimeconfig.cache

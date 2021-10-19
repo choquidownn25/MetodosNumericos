@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Funciones">
+      <HintPath>bin\Debug\net5.0\Funciones.dll</HintPath>
+    </Reference>
+    <Reference Include="Intervalo">
+      <HintPath>bin\Debug\net5.0\Intervalo.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

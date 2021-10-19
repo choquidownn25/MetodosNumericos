@@ -1,0 +1,12 @@
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\Funciones.AssemblyInfoInputs.cache
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\Funciones.AssemblyInfo.cs
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\bin\Debug\net5.0\Funciones.deps.json
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\bin\Debug\net5.0\Funciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\bin\Debug\net5.0\ref\Funciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\bin\Debug\net5.0\Funciones.pdb
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\Funciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\ref\Funciones.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\Funciones.pdb
+C:\Codigos\C#\Metodos Numericos\Metodos\Funciones\obj\Debug\net5.0\Funciones.csproj.CopyComplete

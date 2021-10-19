@@ -1,0 +1,11 @@
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\bin\Debug\net5.0\Intervalo.deps.json
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\bin\Debug\net5.0\Intervalo.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\bin\Debug\net5.0\ref\Intervalo.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\bin\Debug\net5.0\Intervalo.pdb
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\obj\Debug\net5.0\Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\obj\Debug\net5.0\Intervalo.AssemblyInfoInputs.cache
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\obj\Debug\net5.0\Intervalo.AssemblyInfo.cs
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\obj\Debug\net5.0\Intervalo.csproj.CoreCompileInputs.cache
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\obj\Debug\net5.0\Intervalo.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\obj\Debug\net5.0\ref\Intervalo.dll
+C:\Codigos\C#\Metodos Numericos\Metodos\Intervalo\obj\Debug\net5.0\Intervalo.pdb
